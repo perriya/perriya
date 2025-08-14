@@ -10,8 +10,14 @@
 
 
 ### 📫 How to reach me
-#### Contact via Email: <strong><a href="mailto:emmuemptyn@foxmail.com">emmuemptyn</a></strong>
+#### Contact via Email: [**emmuemptyn**](mailto:emmuemptyn@foxmail.com "emmuemptyn@foxmail.com")
+
+### 💕Support me
+#### My Patreon: [**Perriya**](https://patreon.com/Perriya)
+#### Or contact me: [**My Email**](mailto:emmuemptyn@foxmail.com "emmuemptyn@foxmail.com")
 
 ---
 
 [![Perriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=perriya&theme=one_dark_pro&show_icons=true)](https://github.com/perriya)
+
+[![Perriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=perriya&theme=tokyo-night)](https://github.com/perriya)
