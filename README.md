@@ -1,4 +1,4 @@
-<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/de9eb48c-35af-4494-a404-e4ab7325c899"/></p>
+<p align="center"><img width="300px" src="https://github.com/user-attachments/assets/033ae8ff-0086-441c-adb8-87da88c2dbc0"/></p>
 
 <h2 align="center">Hi! Here is Perriya! 👋</h2>
 
